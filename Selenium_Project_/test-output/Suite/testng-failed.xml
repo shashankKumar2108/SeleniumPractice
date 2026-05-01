@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="tests.Day3DDTTest">
+        <methods>
+          <include name="verifyLoginWithMultipleData"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.Day3DDTTest -->
+      <class name="tests.Day2POMTest">
+        <methods>
+          <include name="verifyProductsNavigation"/>
+          <include name="setUp"/>
+          <include name="verifyLoginWithWrongCredentials"/>
+          <include name="tearDown"/>
+          <include name="verifyHomePageTitle"/>
+        </methods>
+      </class> <!-- tests.Day2POMTest -->
+      <class name="tests.Day1Test">
+        <methods>
+          <include name="verifyHomePageTitle"/>
+          <include name="verifyLoginPageNavigation"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifyProductsPageNavigation"/>
+        </methods>
+      </class> <!-- tests.Day1Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
