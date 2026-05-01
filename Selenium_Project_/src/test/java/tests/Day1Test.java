@@ -30,11 +30,11 @@ public class Day1Test {
     }
 
     @Test(priority = 2)
-    public void verifyProductsPageNavigation() throws InterruptedException {
+    public void verifyProductsPageNavigation() throws Throwable {
         driver.get("https://automationexercise.com");
         Thread.sleep(3000);
         
-        // ✅ JavaScript click instead of normal click
+        // JavaScript click instead of normal click
         JavascriptExecutor js =(JavascriptExecutor) driver;
         js.executeScript("window.scrollTo(0, 0)");
         Thread.sleep(1000);
