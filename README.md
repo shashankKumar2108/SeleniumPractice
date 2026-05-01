@@ -26,7 +26,7 @@ SeleniumPractice/
 
 ## 📫 Connect With Me
 - GitHub: [@shashankKumar2108](https://github.com/shashankKumar2108)
-- LinkedIn: ([@Shashank k](https://www.linkedin.com/in/shashankkumar2108/))
+- LinkedIn: [@Shashank k](https://www.linkedin.com/in/shashankkumar2108/)
 
 ---
 ⭐ Star this repo if you find it helpful!
