@@ -4,8 +4,7 @@
 # 🚀 QA Automation Portfolio — Shashank Kumar
 
 ## 👨‍💻 About Me
-BE Graduate in EEE | Ex-Quality Engineer | Aspiring QA Automation Engineer
-Completed Software Testing course at QSpiders (Java, Selenium, TestNG, Manual & Automation Testing)
+Ex-Quality Engineer | Aspiring QA Automation Engineer (Java, Selenium, TestNG, Manual & Automation Testing)
 
 ## 🎯 Goal
 Mastering QA Automation from basics to AI-powered testing tools
